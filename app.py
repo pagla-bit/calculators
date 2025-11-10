@@ -348,18 +348,6 @@ seaborn
 
 ---
 
-## `assets/style.css`
-
-```css
-/* assets/style.css - lightweight professional look */
-body {
-  color: #e6eef8;
-  background: linear-gradient(180deg,#071124 0%, #071a2b 100%);
-}
-.card {background:#07172a; padding:18px; border-radius:12px; margin-bottom:12px;}
-.card-title {font-size:18px; font-weight:700; color:#e6eef8;}
-```
-
 ---
 
 ## `README.md`
