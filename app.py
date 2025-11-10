@@ -377,7 +377,8 @@ streamlit run app.py
 
 * The Correlation and Event Impact calculators use `yfinance` to fetch historical data. Internet connection required at runtime.
 * Event Impact tracker expects event dates entered as `YYYY-MM-DD` lines.
-* The stop-level calculator uses a simple 2% default stop distance; this is conservative placeholder logic — you can change to ATR-based stop in a future iteration.
+* The stop-level calculator uses a simple 2% default stop distance; this is conservative placeholder logic - you can change to ATR-based stop in a future iteration.
+
 
 ```
 ```
